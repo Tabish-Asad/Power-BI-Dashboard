@@ -12,7 +12,7 @@ To monitor and evaluate key metrics such as total sales, quantity sold, transact
 - Which payment method is most frequently used by customers?
 - What are the monthly sales trends for mobile phones?
 - Which brand or model contributes the highest sales revenue?
-- dashboard interaction <a href="https://github.com/Tabish-Asad/Power-BI-Dashboard/blob/main/Screenshot%202025-09-08%20115950.png"></a>
+- dashboard interaction <a href="https://github.com/Tabish-Asad/Power-BI-Dashboard/blob/main/Screenshot%202025-09-08%20115950.png">View Dashboard</a>
 
 ## Process
 - Collect sales, customer, and product data.
